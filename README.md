@@ -50,3 +50,7 @@ Sama seperti training data
 
 ### Testing Data
 Sama seperti training data tetapi tidak boleh ada kolom label.
+
+
+# Tentang
+Repo ini dibuat untuk seleksi Ca-GaIB 2022
